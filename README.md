@@ -19,3 +19,6 @@ A C++ application that simulates a digital payment processing system. It include
 2. **Build the Project**:
    ```bash
    g++ -o payment_system src/main.cpp src/TransactionProcessor.cpp src/PaymentMethodHandler.cpp src/EncryptionUtil.cpp -I/usr/local/opt/openssl/include -L/usr/local/opt/openssl/lib -lssl -lcrypto
+3. Run the Application:
+   ./payment_system
+
