@@ -1,0 +1,22 @@
+# Build artifacts
+/payment_system
+*.o
+*.a
+*.out
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Miscellaneous
+*.swp
+*.swo
+
